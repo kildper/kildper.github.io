@@ -2,22 +2,23 @@ body {
   background-color: lightcyan;
 }
 
-h1 {
+.header {
+  float:left;
+  width: 70 %;
+  background-color: black;
+  color: blue;
   text-align: center;
-  color: solid blue;
   font-size: 24 px;
   font-weight: bold;
-}
-
-.header {
-  width: 700 px;
-  background-color: black;
   border:2 px solid lightgray;
   border-radius: 5 px;
 }
 
-.bottom_part {
-  /*float:bottom;*/
+.contacts {
+  float:right;
+  width: 25%;
+  background-color: black;
+  color: white;
   text-align:right;
   font-style: italic;
 }
