@@ -3,6 +3,7 @@ body {
 }
 
 .header {
+  padding: 10 px 20 px 10 px 20 px;
   float:left;
   width: 70 %;
   height: 10 %;
@@ -17,6 +18,7 @@ body {
 }
 
 .contacts {
+  padding: 10 px 20 px 10 px 20 px;
   float:right;
   width: 20 %;
   height: 10 %;
@@ -29,7 +31,7 @@ body {
 }
 
 .menu {
-  padding-top: 50 px;
+  padding: 10 px 20 px 10 px 20 px;
   float:left;
   width:10 %;
   height:80 %;
