@@ -10,8 +10,6 @@ h1 {
 }
 
 .bottom_part {
-  position:absolute;
-  bottom: 10px;
   text-align:right;
   font-style: italic;
 }
