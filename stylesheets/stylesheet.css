@@ -3,29 +3,9 @@ body {
 }
 
 .header {
-  padding: 10 px 50 px 10 px 120 px;
   float:left;
   width: 80 %;
   height: 15 %;
   background-color: black;
   color: white;
-  /*text-align: center;
-  font-size: 24 px;
-  font-weight: bold;
-  border:2 px solid lightgray;
-  border-radius: 5 px;
-  margin-bottom: 30 px;*/
 }
-
-/*.contacts {
-  padding: 10 px 20 px 10 px 20 px;
-  float:right;
-  width: 20 %;
-  height: 10 %;
-  background-color: black;
-  color: white;
-  text-align:right;
-  font-style: italic;
-  border:2 px solid lightgray;
-  border-radius: 5 px;
-}*/
