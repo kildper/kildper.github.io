@@ -3,10 +3,10 @@ body {
 }
 
 .header {
-  padding: 10 px 20 px 10 px 20 px;
+  padding: 10 px 50 px 10 px 120 px;
   float:left;
-  width: 70 %;
-  height: 10 %;
+  width: 800 px;
+  height: 15 %;
   background-color: black;
   color: white;
   text-align: center;
