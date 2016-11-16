@@ -5,13 +5,15 @@ body {
 .header {
   float:left;
   width: 70 %;
+  height: 10 %;
   background-color: black;
-  color: blue;
+  color: white;
   text-align: center;
   font-size: 24 px;
   font-weight: bold;
   border:2 px solid lightgray;
   border-radius: 5 px;
+  margin-bottom: 30px;
 }
 
 .contacts {
@@ -22,5 +24,16 @@ body {
   color: white;
   text-align:right;
   font-style: italic;
+  border:2 px solid lightgray;
+  border-radius: 5 px;
+}
+
+.menu {
+  float:left;
+  width:10%;
+  height:80%;
+  background-color:#333333;
+  color: lightyellow;
+  border:2 px solid lightgray;
 }
 
