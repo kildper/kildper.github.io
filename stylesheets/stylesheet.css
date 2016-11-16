@@ -30,8 +30,8 @@ body {
 
 .menu {
   float:left;
-  width:10%;
-  height:80%;
+  width:10 %;
+  height:80 %;
   background-color:#333333;
   color: lightyellow;
   border:2 px solid lightgray;
