@@ -9,8 +9,15 @@ h1 {
   font-weight: bold;
 }
 
+.header {
+  width: 70%;
+  background-color: black;
+  border: 2px solid lightgray;
+  border-radius: 5px;
+}
+
 .bottom_part {
-  float:bottom;
+  /*float:bottom;*/
   text-align:right;
   font-style: italic;
 }
