@@ -9,12 +9,12 @@ body {
   height: 15 %;
   background-color: black;
   color: white;
-  text-align: center;
+  /*text-align: center;
   font-size: 24 px;
   font-weight: bold;
   border:2 px solid lightgray;
   border-radius: 5 px;
-  margin-bottom: 30 px;
+  margin-bottom: 30 px;*/
 }
 
 /*.contacts {
