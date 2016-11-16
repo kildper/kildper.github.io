@@ -29,6 +29,7 @@ body {
 }
 
 .menu {
+  padding-top: 50 px;
   float:left;
   width:10 %;
   height:80 %;
