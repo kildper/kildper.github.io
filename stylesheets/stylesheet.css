@@ -5,15 +5,15 @@ body {
 h1 {
   text-align: center;
   color: solid blue;
-  font-size: 24px;
+  font-size: 24 px;
   font-weight: bold;
 }
 
 .header {
-  width: 700px;
+  width: 700 px;
   background-color: black;
-  border:2px solid lightgray;
-  border-radius: 5px;
+  border:2 px solid lightgray;
+  border-radius: 5 px;
 }
 
 .bottom_part {
