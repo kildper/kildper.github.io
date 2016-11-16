@@ -29,14 +29,3 @@ body {
   border:2 px solid lightgray;
   border-radius: 5 px;
 }
-
-.menu {
-  padding: 10 px 20 px 10 px 20 px;
-  float:left;
-  width:10 %;
-  height:80 %;
-  background-color:#333333;
-  color: lightyellow;
-  border:2 px solid lightgray;
-}
-
