@@ -16,7 +16,8 @@ body {
 
 .contacts {
   float:right;
-  width: 25%;
+  width: 20 %;
+  height: 10 %;
   background-color: black;
   color: white;
   text-align:right;
