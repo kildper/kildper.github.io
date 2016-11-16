@@ -8,3 +8,9 @@ h1 {
   font-size: 24px;
   font-weight: bold;
 }
+
+.bottom_part {
+  text-align:right;
+  font-style: italic;
+}
+
