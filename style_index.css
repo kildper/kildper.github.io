@@ -1,0 +1,80 @@
+body {
+	background-color: #E0FFFF;
+	margin: 0px;
+}
+
+h2 {
+	font-size: 22px;
+	font-weight: bold;
+}
+
+a {
+	color: #F0FFF0;
+}
+
+a:hover {
+	color: #FFF8DC;
+	
+}
+
+a:active {
+	color: #191970;
+}
+
+.header_left {
+	float: left;
+	width: 68%;
+	height: 80px;
+	background-color: #708090;
+	color: white;
+	text-align: left;
+	padding-left: 5%;
+	border-bottom: 4px solid #00BFFF;
+	border-left: 15px solid #00BFFF;
+}
+
+.header_right {
+	float: right;
+	width: 20%;
+	height: 80px;
+	color: white;
+	background-color: #708090;
+	border-bottom: 4px solid #00BFFF;
+	border-right: 15px solid #00BFFF;
+	text-align: right;
+	padding-right: 4%;
+}
+
+.side_menu {
+	float: left;
+	margin-top: 5px;
+	border-top: 4px solid #00BFFF;
+	border-bottom: 4px solid #00BFFF;
+	border-left: 15px solid #00BFFF;
+	width: 15%;
+	height: 820px;
+	background-color: #708090;
+	color: white;
+	text-align: center;
+}
+
+.side_menu ul li {
+	float:left;
+	text-align: left;
+	border-bottom: 1px solid #FFE4E1;
+	padding: 6px;
+}
+
+.side_menu .weather {
+	float:bottom;
+}
+
+.main {
+	margin-top: 5px;
+	float:right;
+	width:80%;
+	border-left: 4px solid #00BFFF;
+	padding: 10px;
+}
+	
+	
