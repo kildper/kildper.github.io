@@ -14,7 +14,7 @@ a {
 
 a:hover {
 	color: #FFF8DC;
-	
+	cursor:pointer;	
 }
 
 a:active {
