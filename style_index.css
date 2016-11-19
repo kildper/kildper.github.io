@@ -10,6 +10,7 @@ h1 {
 }
 
 .cool_quote {
+	margin-top: 5px;
 	margin-left: 80px;
 	font-size: 14px;
 	color: cyan;
