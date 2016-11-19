@@ -34,6 +34,7 @@ a:active {
 }
 
 .header_left {
+	margin-left: 40px;
 	float: left;
 	width: 68%;
 	height: 80px;
@@ -44,6 +45,7 @@ a:active {
 }
 
 .header_right {
+	margin-right: 40px;
 	float: right;
 	width: 20%;
 	height: 80px;
