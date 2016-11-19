@@ -70,7 +70,7 @@ a:active {
 	padding: 6px;
 }
 
-.side_menu.weather {
+.side_menu .weather {
 	float:bottom;
 }
 
