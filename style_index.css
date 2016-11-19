@@ -5,7 +5,13 @@ body {
 }
 
 h1 {
-	font-size:20px;
+	font-family: "Tahoma";
+	font-size:24px;
+}
+
+.cool_quote {
+	font-size: 14px;
+	color: cyan;
 }
 
 h2 {
