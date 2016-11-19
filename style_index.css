@@ -71,7 +71,7 @@ a:active {
 }
 
 .side_menu .weather {
-	float:bottom;
+	margin-top: 600px;
 }
 
 .main {
